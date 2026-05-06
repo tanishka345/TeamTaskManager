@@ -1,0 +1,7 @@
+[build]
+build = ["npm install"]
+run = ["npm start"]
+
+[deployment]
+root = "server"
+start = "npm start"
