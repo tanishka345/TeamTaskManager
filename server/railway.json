@@ -1,0 +1,4 @@
+[railway]
+builder = nixpacks
+buildCommand = cd server && npm install && npm start
+startCommand = npm start
